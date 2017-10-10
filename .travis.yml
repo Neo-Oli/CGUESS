@@ -1,7 +1,7 @@
 language: cpp
 compiler:
     - clang
-install:
-   - clang
-   - make
+#install:
+#   - clang
+#   - make
 script: cd source && make
