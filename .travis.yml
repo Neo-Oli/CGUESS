@@ -4,4 +4,4 @@ compiler:
 #install:
 #   - clang
 #   - make
-script: make
+script: make && ls -a source/
