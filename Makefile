@@ -1,3 +1,3 @@
-- cguess: source/*.cpp source/*.hpp; g++ -o cguess -I source/* source/cguess.cpp
+- cguess: source/*.cpp source/*.hpp; g++ source/cguess.cpp -I source -o cguess
 # unneccessary pt.1     
 # unneccessary pt.2
