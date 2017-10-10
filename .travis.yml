@@ -4,4 +4,4 @@ compiler:
 #install:
 #   - clang
 #   - make
-script: cd source && make && ls
+script: cd source && make && chmod +x cguess && ls
